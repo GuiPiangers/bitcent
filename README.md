@@ -1,6 +1,6 @@
 # BitCent
 
-[https://barber-project-e7916.web.app](https://bitcent-eight.vercel.app)
+https://bitcent-eight.vercel.app
 
 ## Sobre o projeto
 
