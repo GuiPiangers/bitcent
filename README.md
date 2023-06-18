@@ -5,6 +5,7 @@
 ## Sobre o projeto
 
 Projeto desenvolvido em conjunto durante o evento Transformação Dev da Cod3r.
+
 link do canal do YouTube: https://www.youtube.com/@cod3r
 
 O projeto se trata de em um sistema de gestão financeira.
