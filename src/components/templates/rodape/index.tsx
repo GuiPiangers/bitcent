@@ -1,5 +1,6 @@
-import Area from "../comum/Area";
-import Logo from "../comum/Logo";
+import Link from "next/link";
+import Area from "../../landing/comum/Area";
+import Logo from "../../landing/comum/Logo";
 import RedesSociais from "./RedesSociais";
 
 export default function Rodape(){
@@ -18,6 +19,14 @@ export default function Rodape(){
                         sua vida
                     </div>
                 </div>
+
+                <Link href='' className={`
+                    flex justify-center items-center cursor-pointer
+                    text-zinc-300 p-4 rounded-md h-9
+                    bg-gradient-to-r from-indigo-600 to-cyan-600
+                `}>
+                    Meu portfólio
+                </Link>
                 <RedesSociais/>
             </div>
         </Area>
